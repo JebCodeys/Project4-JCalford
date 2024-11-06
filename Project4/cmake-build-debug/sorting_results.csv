@@ -1,0 +1,41 @@
+Movie Count,Sorting Algorithm,Reads,Allocations
+1000,Bubble Sort,318328,24000
+1000,Heap Sort,19125,2498
+1000,Unstable Quick Sort,499500,0
+1000,Stable Quick Sort,500499,500499
+900,Bubble Sort,297345,21600
+900,Heap Sort,16999,2248
+900,Unstable Quick Sort,404550,0
+900,Stable Quick Sort,405449,405449
+800,Bubble Sort,273062,19200
+800,Heap Sort,14879,1998
+800,Unstable Quick Sort,319600,0
+800,Stable Quick Sort,320399,320399
+700,Bubble Sort,245479,16800
+700,Heap Sort,12761,1748
+700,Unstable Quick Sort,244650,0
+700,Stable Quick Sort,245349,245349
+600,Bubble Sort,214596,14400
+600,Heap Sort,10633,1498
+600,Unstable Quick Sort,179700,0
+600,Stable Quick Sort,180299,180299
+500,Bubble Sort,180413,12000
+500,Heap Sort,8541,1248
+500,Unstable Quick Sort,124750,0
+500,Stable Quick Sort,125249,125249
+400,Bubble Sort,142930,9600
+400,Heap Sort,6607,998
+400,Unstable Quick Sort,79800,0
+400,Stable Quick Sort,80199,80199
+300,Bubble Sort,102147,7200
+300,Heap Sort,4695,748
+300,Unstable Quick Sort,44850,0
+300,Stable Quick Sort,45149,45149
+200,Bubble Sort,58064,4800
+200,Heap Sort,2891,498
+200,Unstable Quick Sort,19900,0
+200,Stable Quick Sort,20099,20099
+100,Bubble Sort,2790,2400
+100,Heap Sort,1243,248
+100,Unstable Quick Sort,4950,0
+100,Stable Quick Sort,5049,5049
